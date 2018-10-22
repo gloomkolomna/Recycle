@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recycle.Mapper", "Recycle.Mapper\Recycle.Mapper.csproj", "{776E679F-C6D7-4C1A-9EB3-2858AB9A13C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recycle.Api", "Recycle.Api\Recycle.Api.csproj", "{3B798843-3940-4AD0-9F70-9B5F7B44B5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776E679F-C6D7-4C1A-9EB3-2858AB9A13C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776E679F-C6D7-4C1A-9EB3-2858AB9A13C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776E679F-C6D7-4C1A-9EB3-2858AB9A13C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776E679F-C6D7-4C1A-9EB3-2858AB9A13C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B798843-3940-4AD0-9F70-9B5F7B44B5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B798843-3940-4AD0-9F70-9B5F7B44B5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B798843-3940-4AD0-9F70-9B5F7B44B5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B798843-3940-4AD0-9F70-9B5F7B44B5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {844EE1DF-389C-477A-B70A-734E9C36C90D}
+	EndGlobalSection
+EndGlobal
